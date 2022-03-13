@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
 
-st.set_page_config(page_icon="⚙️", page_title="DBT Dashboard")
+st.set_page_config(page_icon="⚙️", page_title="Tagging Tool")
 
 
 def main():
