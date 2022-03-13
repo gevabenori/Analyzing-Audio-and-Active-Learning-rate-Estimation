@@ -7,6 +7,7 @@ st.set_page_config(page_icon="⚙️", page_title="Tagging Tool")
 def main():
     st.sidebar.radio("TEST", ('X', 'Y'))
     st.title("Video and audio tagging tool")
+    st.warning("TEST!!!")
 
 
 if __name__ == "__main__":
