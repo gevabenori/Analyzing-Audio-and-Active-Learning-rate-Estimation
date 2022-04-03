@@ -19,3 +19,8 @@ tk=8.6.10
 wheel=0.34.2
 xz=5.2.5
 zlib=1.2.11
+freeglut3-dev
+libgtk2.0-dev
+libasound2-dev
+libsndfile1-dev
+ffmpeg
